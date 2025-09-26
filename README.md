@@ -1,2 +1,2 @@
-# python-notes-and-codes
+# python-notes
 block diagram of computer,memory hierarchy,principles of abstraction,language hierarchy,what is python and why python,applications...
