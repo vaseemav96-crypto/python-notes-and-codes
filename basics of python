@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------About CPU--------------------------------------------------------------------------------------------------------
+Let us know what is the block diagram of computer:there will be a CPU let us imagine we are having input devices and output devices and there will be memory like primary memory and secondary memory
+CPU:handles the process,input devices:mouse,keyboard,monitor
+Primary memory:RAM,ROM  secondary memory:hard disk(gates)
+RAM:(Random access memory)
+->data and instructions are currently being processed are kept in primary memory
+->it is volatile
+->data is lost when system is truned off
+ROM:(Read only memory)
+->data and instructions are processed are kept in secondary memory
+->it is non volatile
+->data is not lost 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------- ----------memory hierarchy ---------------------------------------------------------------------------------------------------------
+6.magnectic tapes
+5.optical disk
+4.magnectic disk
+3.main memory
+2.cache memory
+1.cpu register
+-----------------------------------------------------------------------------------------------Abstraction------------------------------------------------------------------------------------------------------------
+Abstraction is ntg but hidding the internal functionality of function from the users
+like for example:ATM,GAMES
